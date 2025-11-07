@@ -37,6 +37,6 @@ This project presents a comprehensive analysis of social media advertising perfo
 
 ---
 ## Dashboard Images
-![Dashboard_1](Images/Dashboard_1.png)
-![Dashboard_2](Images/Dashboard_2.png)
+![Dashboard_1](https://github.com/Ash99-commits/FUTURE_DS_02/blob/e53be339286a8e3cb36ed5908daba16657a1117a/Dashboard%20(Page%201).png)
+![Dashboard_2](https://github.com/Ash99-commits/FUTURE_DS_02/blob/e53be339286a8e3cb36ed5908daba16657a1117a/Dashboard%20(Page%202).png)
 ---
