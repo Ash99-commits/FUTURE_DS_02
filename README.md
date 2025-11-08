@@ -2,8 +2,8 @@
 
 ### 🎯 Internship Task 2 – Data Science & Analytics (Future Interns)
 **Track Code:** FUTURE_DS_02  
-**Project Title:** Facebook Ads Campaign Performance Tracker
-**Tool Used:** Microsoft Power BI   
+**Project Title:** Facebook Ads Campaign Performance Tracker  
+**Tool Used:** Power BI Desktop    
 **Created by:** Ashwani Kumar Patra
 
 ---
